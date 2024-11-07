@@ -32,6 +32,16 @@ A base de dados contém informações detalhadas de jogadores de futebol, inclui
 
 ### RQ1: Habilidades Ofensivas e Valor de Mercado
 
+Os jogadores com habilidades ofensivas elevadas, como finalização e compostura (capacidade de atuar bem sob pressão), tendem a apresentar um valor de mercado maior.
+
+Observamos uma correlação positiva entre as métricas de finalização, compostura e o valor de mercado, indicando que essas habilidades são altamente valorizadas no mercado. Em média, os atacantes e meias ofensivos com boas pontuações nessas habilidades apresentam um valor de mercado acima da média.
+
 ### RQ2: Salário e Habilidades Específicas para Cada Posição
 
+Habilidades específicas para cada posição também influenciam o salários dos jogadores. Goleiros com altas pontuações em suas habilidades, recebem salários acima da média. Para defensores, a média das habilidades de marcação e interceptação mostra correlação positiva com salários, indicando que essas habilidades são valorizadas para definir a remuneração.
+
 ##  Discussão
+
+Os resultados indicam que habilidades ofensivas, como finalização e compostura, são importantes para precificar o jogador perante o mercado. Além disso, é possível constatar que as habilidades específicas para cada posição também influenciam diretamente no salário do jogador, indicando que essas habilidades são valorizadas para a definição de seu salário.
+
+Esses resultados fornecem insights valiosos para clubes interessados em contratações estratégicas, indicando que investir em jogadores com alto potencial ofensivo e boas pontuações de desempenho em suas específicas posições, pode ser vantajoso.
